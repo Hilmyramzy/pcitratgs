@@ -1,4 +1,5 @@
 NAMA KELOMPOK
+
 : NADYA KHAIRUNNISA - 312210133
 
 : DHEA DWI ADELIA - 312210114
@@ -6,6 +7,7 @@ NAMA KELOMPOK
 : HILMY SYADDAD RAMZY - 312210162
               
 : IHSAN HADIMULYA - 312210047
+======================================================================
               
 
 DOSEN PENGAMPU : MUHAMMAD FACTAN S.kom., M.kom., MTCNA.
