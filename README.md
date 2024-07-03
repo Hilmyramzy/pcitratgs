@@ -23,9 +23,15 @@ DOSEN PENGAMPU : MUHAMMAD FACTAN S.kom., M.kom., MTCNA.
 
 
 
+
+
+
+
 from PIL import Image
 
-def hide_text(image_path, secret_text, output_path):
+
+def hide_text(image_path, secret_text, output_path)
+
     # Open image
     image = Image.open(image_path)
     
