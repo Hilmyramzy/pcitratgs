@@ -8,6 +8,8 @@ NAMA KELOMPOK
               
 : IHSAN HADIMULYA - 312210047
 
+MATA KULIAH l: PENGOLAHAN CITRA
+
 DOSEN PENGAMPU : MUHAMMAD FACTAN S.kom., M.kom., MTCNA.
 
 ======================================================================
