@@ -10,7 +10,7 @@ NAMA KELOMPOK
 
 MATA KULIAH : PENGOLAHAN CITRA
 
-DOSEN PENGAMPU : MUHAMMAD FACTAN S.kom., M.kom., MTCNA.
+DOSEN PENGAMPU : MUHAMMAD FACTAN S.Kom., M.Kom., MTCNA.
 
 ======================================================================
               
