@@ -8,25 +8,10 @@ NAMA KELOMPOK
               
 : IHSAN HADIMULYA - 312210047
 
-======================================================================
-              
-
 DOSEN PENGAMPU : MUHAMMAD FACTAN S.kom., M.kom., MTCNA.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+======================================================================
+              
 from PIL import Image
 
 
