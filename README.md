@@ -12,7 +12,7 @@ MATA KULIAH : PENGOLAHAN CITRA
 
 DOSEN PENGAMPU : MUHAMMAD FACTAN S.Kom., M.Kom., MTCNA.
 
-======================================================================
+___________________________________________________________________________________________________________________________
 
 [Link Google Drive](https://drive.google.com/drive/folders/1b7G6bOvKIhmDcLUpFxWsTuQP9oUtK3ym?usp=drive_link)
               
