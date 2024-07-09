@@ -1,20 +1,24 @@
-NAMA KELOMPOK
+Nama Kelompok
 
-1. NADYA KHAIRUNNISA - 312210133
+1. Nadya Khairunnisa - 312210133
 
-2. DHEA DWI ADELIA - 312210116
+2. Dhea Dwi Adelia - 312210116
               
-3. HILMY SYADDAD RAMZY - 312210162
+3. Hilmy Syaddad Ramzy - 312210162
               
-4. IHSAN HADIMULYA - 312210047
+4. Ihsan Hadimulya - 312210047
 
-MATA KULIAH : PENGOLAHAN CITRA
+Kelas : TI.22.A.1
 
-DOSEN PENGAMPU : MUHAMMAD FACTAN S.Kom., M.Kom., MTCNA.
+Mata Kuliah : Pengolahan Citra
+
+Dosen Pengampu : Muhammad Fatchan S.Kom., M.Kom., MTCNA.
 
 ___________________________________________________________________________________________________________________________
 
 [Link Google Drive](https://drive.google.com/drive/folders/1b7G6bOvKIhmDcLUpFxWsTuQP9oUtK3ym?usp=drive_link)
+
+## Code
               
 ```import streamlit as st
 import numpy as np
