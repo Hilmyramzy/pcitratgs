@@ -14,7 +14,7 @@ DOSEN PENGAMPU : MUHAMMAD FACTAN S.Kom., M.Kom., MTCNA.
 
 ======================================================================
 
-[Link Google Drive](https://drive.google.com/drive/folders/1b7G6bOvKIhmDcLUpFxWsTuQP9oUtK3ym?usp=sharing)
+[Link Google Drive](https://drive.google.com/drive/folders/1b7G6bOvKIhmDcLUpFxWsTuQP9oUtK3ym?usp=drive_link)
               
 ```import streamlit as st
 import numpy as np
